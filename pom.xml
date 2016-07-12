@@ -3,7 +3,7 @@
  
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-webapp</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
  
   <dependencies>
@@ -38,7 +38,7 @@
 							<allowSnapshots>true</allowSnapshots>
 							<pushReleases>true</pushReleases>
 							<keepBranch>true</keepBranch>
-							<!-- <noDeploy>true</noDeploy> -->
+							<noDeploy>true</noDeploy>
 							<updateDependencies>true</updateDependencies>
 							<flowInitContext>
 								<developBranchName>develop</developBranchName>
