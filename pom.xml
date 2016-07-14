@@ -3,7 +3,7 @@
  
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-webapp</artifactId>
-  <version>1.0.3</version>
+  <version>1.1.0</version>
   <packaging>jar</packaging>
  
   <dependencies>
@@ -22,7 +22,7 @@
 				<activeByDefault>false</activeByDefault>
 			</activation>
 			<properties>
-				<product.finalName>my-webapp</product.finalName>
+				<product.finalName>${project.artifactId}-${project.version}</product.finalName>
 			</properties>
 			<build>
 				<plugins>
