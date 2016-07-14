@@ -41,7 +41,7 @@
 							<noDeploy>true</noDeploy>
 							<updateDependencies>true</updateDependencies>
 							<flowInitContext>
-								<developBranchName>develop_a</developBranchName>
+								<developBranchName>develop</developBranchName>
 								<masterBranchName>master</masterBranchName>
 							</flowInitContext>
 						</configuration>
