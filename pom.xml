@@ -71,7 +71,8 @@
                                                         <allowSnapshots>true</allowSnapshots>
                                                         <pushReleases>true</pushReleases>
                                                         <keepBranch>true</keepBranch>
-                                                        <noDeploy>true</noDeploy>
+                                                        <noDeploy>false</noDeploy>
+                                                        <pushHotfixes>true</pushHotfixes>
 							<noMergeToDevelop>true</noMergeToDevelop>
                                                         <updateDependencies>true</updateDependencies>
                                                         <flowInitContext>
