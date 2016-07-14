@@ -22,7 +22,7 @@
 				<activeByDefault>false</activeByDefault>
 			</activation>
 			<properties>
-				<product.finalName>my-webapp</product.finalName>
+				<product.finalName>${project.artifactId}-${project.version}</product.finalName>
 			</properties>
 			<build>
 				<plugins>
