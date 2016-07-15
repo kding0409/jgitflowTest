@@ -38,7 +38,7 @@
 							<allowSnapshots>true</allowSnapshots>
 							<pushReleases>true</pushReleases>
 							<keepBranch>true</keepBranch>
-							<noDeploy>false</noDeploy>
+							<noDeploy>true</noDeploy>
 							<updateDependencies>true</updateDependencies>
 							<flowInitContext>
 								<developBranchName>develop</developBranchName>
