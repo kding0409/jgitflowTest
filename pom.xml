@@ -72,7 +72,7 @@
                                                         <pushReleases>true</pushReleases>
                                                         <keepBranch>true</keepBranch>
                                                         <noDeploy>true</noDeploy>
-							<noMergeToDevelop>true</noMergeToDevelop>
+                                                        <pushHotfixes>true</pushHotfixes>
                                                         <updateDependencies>true</updateDependencies>
                                                         <flowInitContext>
                                                                 <developBranchName>develop_a</developBranchName>
